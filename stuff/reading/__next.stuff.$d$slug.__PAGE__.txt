@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[76709,["/_next/static/chunks/d8e8b7292d73da16.js","/_next/static/chunks/93aacfd57c19794d.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/_next/static/chunks/16050b082dcdf87d.css","style"]
+0:{"buildId":"4g7ZbDs7udpYTp_sdp79U","rsc":["$","$1","c",{"children":[["$","$L2",null,{"collection":{"id":"reading","code":"RD","title":"Reading","descriptor":"articles worth the tab, lately","standfirst":"Links I keep sending people. Papers, essays, and the occasional thread — recent first, with one line on why it stuck.","metaLabel":"Source","items":[{"name":"","pending":true},{"name":"","pending":true},{"name":"","pending":true},{"name":"","pending":true},{"name":"","pending":true}]}}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/16050b082dcdf87d.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/d8e8b7292d73da16.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/93aacfd57c19794d.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

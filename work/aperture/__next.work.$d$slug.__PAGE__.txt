@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[55401,["/_next/static/chunks/a963c296ea9ddf3c.js","/_next/static/chunks/c694debf88c2c8f2.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"4g7ZbDs7udpYTp_sdp79U","rsc":["$","$1","c",{"children":[["$","$L2",null,{"project":{"id":"aperture","title":"Aperture","description":"A satellite-economic machine-learning pipeline for real-estate investment intelligence built at Carolina Data Challenge 2025. It combines NASA HLS imagery, computer-vision construction detection, public economic indicators, PyTorch/XGBoost ensembles, AWS infrastructure, Dask, PostGIS, and S3.","tags":["PyTorch","XGBoost","AWS","Computer Vision","PostGIS"],"github":"https://github.com/WillieTheWhale/real-estate-ml-dashboard","sceneHints":{"burstDirection":30,"accentDensity":0.22,"skyFragmentCount":2}},"kind":"project"}],[["$","script","script-0",{"src":"/_next/static/chunks/a963c296ea9ddf3c.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/c694debf88c2c8f2.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

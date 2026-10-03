@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/e65647a2d60275ef.css","style"]
+:HL["/_next/static/media/archivo_wdth-s.p.021d2a7d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/inter_wght-s.p.c757f81b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/server_mono-s.p.4d998284.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/server_mono_oblique-s.p.0f38ea64.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/shippori_mincho_400-s.p.665d7356.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"4g7ZbDs7udpYTp_sdp79U","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"work","paramType":null,"paramKey":"work","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"heelcode","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
